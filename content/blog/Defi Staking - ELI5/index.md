@@ -170,7 +170,9 @@ Also check to see that you can see the token in the assets tab on metamask
 
 Now will follow the staking on pancake swap
 
-Staking on Pancakeswap
+---
+
+### Staking on Pancakeswap
 
 1. First go here and identify the farm that you want to stake in, though we are going to use the BUSD/USDT farm.
 
